@@ -292,4 +292,5 @@ GlobalExceptionHandler  ← intercepte les exceptions, retourne une ErrorRespons
 
 **Confectionné par** : Ndeye NDione Tine
 
-**Email** : ndieyendionetine@gmail.com
+**Email** : ndeyendione.tine@unchk.edu.sn
+**INE** : N03675520202
